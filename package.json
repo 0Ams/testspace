@@ -1,0 +1,19 @@
+{
+  "name": "testspace",
+  "version": "1.0.0",
+  "description": "test - test1 - test2 - test3",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ohen/testspace.git"
+  },
+  "author": "belldoor <belldoor444@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ohen/testspace/issues"
+  },
+  "homepage": "https://github.com/Ohen/testspace#readme"
+}
